@@ -1,0 +1,26 @@
+{
+ "id": "20260919-100331_px4_fmu-v6x",
+ "kind": "flash",
+ "time": "2026-09-19T17:03:31+00:00",
+ "board": {
+  "device": "/dev/cu.usbmodem01",
+  "description": "Auterion PX4 FMU v6X.x",
+  "target": "px4_fmu-v6x"
+ },
+ "board_firmware": {
+  "version": "1.18.0 beta",
+  "git": "00000023",
+  "board": 53,
+  "vendor_id": 12677,
+  "product_id": 53
+ },
+ "atlas": true,
+ "firmware_sha256": "4c135f94d2b87451411e0cb3cee57745379d67dc8c14293c426a9d2d6b998ce0",
+ "firmware_bytes": 1782310,
+ "airframe": "ATLAS_09",
+ "params_count": 1182,
+ "export_count": 151,
+ "px4_source_commit": "2a0e9109238bd0274608e3c25201be7c40becd0c",
+ "designer_commit": "7c72ebb2fa20e0aa2d50b78626e4460e50960e5e",
+ "note": "Recover startup-crashing HITL board with built stack fix"
+}
