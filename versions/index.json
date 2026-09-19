@@ -1,5 +1,31 @@
 [
  {
+  "id": "20260919-052857_px4_fmu-v6x",
+  "kind": "flash",
+  "time": "2026-09-19T12:28:57+00:00",
+  "board": {
+   "device": "/dev/cu.usbmodem01",
+   "description": "Auterion PX4 FMU v6X.x",
+   "target": "px4_fmu-v6x"
+  },
+  "board_firmware": {
+   "version": "1.18.0 beta",
+   "git": "00000023",
+   "board": 53,
+   "vendor_id": 12677,
+   "product_id": 53
+  },
+  "atlas": true,
+  "firmware_sha256": "2835e9fc972bd736e4064079f81ffcb26b18e0e81004f8f1483a3d1971d97bf7",
+  "firmware_bytes": 1775974,
+  "airframe": "ATLAS_09",
+  "params_count": 1164,
+  "export_count": 137,
+  "px4_source_commit": "2a0e9109238bd0274608e3c25201be7c40becd0c",
+  "designer_commit": "887a84781cffbaf16d67667d95462fbc59765e15",
+  "note": "flashed from Update PX4"
+ },
+ {
   "id": "20260919-045731_px4_fmu-v6x",
   "kind": "flash",
   "time": "2026-09-19T11:57:31+00:00",
