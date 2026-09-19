@@ -1,0 +1,26 @@
+{
+ "id": "20260918-224746_px4_fmu-v6x",
+ "kind": "manual",
+ "time": "2026-09-19T05:47:46+00:00",
+ "board": {
+  "device": "/dev/cu.usbmodem01",
+  "description": "Auterion PX4 FMU v6X.x",
+  "target": "px4_fmu-v6x"
+ },
+ "board_firmware": {
+  "version": "1.18.0 beta",
+  "git": "00000023",
+  "board": 53,
+  "vendor_id": 12677,
+  "product_id": 53
+ },
+ "atlas": true,
+ "firmware_sha256": null,
+ "firmware_bytes": null,
+ "airframe": "ATLAS_09",
+ "params_count": 1166,
+ "export_count": 128,
+ "px4_source_commit": "2a0e9109238bd0274608e3c25201be7c40becd0c",
+ "designer_commit": "cf2ba25ca9913b40c43465568c4ced0778729d5c",
+ "note": "ATLAS firmware with ATLAS_09 geometry, gains and module parameters pushed (NLF_HW_OK still 0)"
+}
