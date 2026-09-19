@@ -1,5 +1,31 @@
 [
  {
+  "id": "20260918-224356_px4_fmu-v6x",
+  "kind": "flash",
+  "time": "2026-09-19T05:43:56+00:00",
+  "board": {
+   "device": "/dev/cu.usbmodem01",
+   "description": "Auterion PX4 FMU v6X.x",
+   "target": "px4_fmu-v6x"
+  },
+  "board_firmware": {
+   "version": "1.18.0 beta",
+   "git": "00000023",
+   "board": 53,
+   "vendor_id": 12677,
+   "product_id": 53
+  },
+  "atlas": true,
+  "firmware_sha256": "570e30a7f3ae9ab6e1c3571a9b80c890fda65efd0eff8b4931d58c50711b96f5",
+  "firmware_bytes": 1773158,
+  "airframe": "ATLAS_09",
+  "params_count": 1149,
+  "export_count": 128,
+  "px4_source_commit": "2a0e9109238bd0274608e3c25201be7c40becd0c",
+  "designer_commit": "d2e4c31ce8bdd71c237f357cd910c58f43f72535",
+  "note": "first ATLAS firmware flash (PX4 v1.18 beta tree + nose-lift module + allocator overlay)"
+ },
+ {
   "id": "20260918-224320_px4_fmu-v6x",
   "kind": "manual",
   "time": "2026-09-19T05:43:20+00:00",
