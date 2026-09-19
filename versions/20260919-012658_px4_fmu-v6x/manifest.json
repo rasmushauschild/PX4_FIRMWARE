@@ -1,0 +1,26 @@
+{
+ "id": "20260919-012658_px4_fmu-v6x",
+ "kind": "flash",
+ "time": "2026-09-19T08:26:58+00:00",
+ "board": {
+  "device": "/dev/cu.usbmodem01",
+  "description": "Auterion PX4 FMU v6X.x",
+  "target": "px4_fmu-v6x"
+ },
+ "board_firmware": {
+  "version": "1.18.0 beta",
+  "git": "00000023",
+  "board": 53,
+  "vendor_id": 12677,
+  "product_id": 53
+ },
+ "atlas": true,
+ "firmware_sha256": "d353f27c392b3568427de199d3b94e4045fbe760ac9705cd760067dc9c90fb84",
+ "firmware_bytes": 1773766,
+ "airframe": "ATLAS_09",
+ "params_count": 1149,
+ "export_count": 128,
+ "px4_source_commit": "2a0e9109238bd0274608e3c25201be7c40becd0c",
+ "designer_commit": "476fd4ea4f1f10f235064af670556048c068e258",
+ "note": "module messages mirrored to MAVLink statustext"
+}
