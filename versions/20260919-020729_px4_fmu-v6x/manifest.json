@@ -1,0 +1,26 @@
+{
+ "id": "20260919-020729_px4_fmu-v6x",
+ "kind": "flash",
+ "time": "2026-09-19T09:07:29+00:00",
+ "board": {
+  "device": "/dev/cu.usbmodem01",
+  "description": "Auterion PX4 FMU v6X.x",
+  "target": "px4_fmu-v6x"
+ },
+ "board_firmware": {
+  "version": "1.18.0 beta",
+  "git": "00000023",
+  "board": 53,
+  "vendor_id": 12677,
+  "product_id": 53
+ },
+ "atlas": true,
+ "firmware_sha256": "0e6d4b46f5f61b049b9860ce5b77c49a87fc3a5ecdb7bb19854d6b5ef7500a9e",
+ "firmware_bytes": 1774030,
+ "airframe": "ATLAS_09",
+ "params_count": 1160,
+ "export_count": 128,
+ "px4_source_commit": "2a0e9109238bd0274608e3c25201be7c40becd0c",
+ "designer_commit": "353f5a8a0aa3d0e458231a5fa435ce1cf75b7c1f",
+ "note": "MAV_CMD_USER_1 trigger + boot-start hook; HITL pure plant"
+}
