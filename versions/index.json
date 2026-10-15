@@ -1,5 +1,23 @@
 [
  {
+  "id": "20261015-120451_preset",
+  "kind": "preset",
+  "time": "2026-10-15T19:04:51+00:00",
+  "board": {
+   "target": "preset"
+  },
+  "board_firmware": null,
+  "atlas": true,
+  "firmware_sha256": null,
+  "firmware_bytes": null,
+  "airframe": "PORTAL_MVP_01",
+  "params_count": 0,
+  "export_count": 123,
+  "px4_source_commit": "2a0e9109238bd0274608e3c25201be7c40becd0c",
+  "designer_commit": "d9b77186fce2e47485ef0739376ca90678fe9f5b",
+  "note": ""
+ },
+ {
   "id": "20261015-024459_preset",
   "kind": "preset",
   "time": "2026-10-15T09:44:59+00:00",
