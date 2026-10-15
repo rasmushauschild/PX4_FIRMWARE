@@ -1,0 +1,18 @@
+{
+ "id": "20261015-164042_preset",
+ "kind": "preset",
+ "time": "2026-10-15T23:40:42+00:00",
+ "board": {
+  "target": "preset"
+ },
+ "board_firmware": null,
+ "atlas": true,
+ "firmware_sha256": null,
+ "firmware_bytes": null,
+ "airframe": "PORTAL_MVP_01",
+ "params_count": 0,
+ "export_count": 123,
+ "px4_source_commit": "2a0e9109238bd0274608e3c25201be7c40becd0c",
+ "designer_commit": "12b3dcf4fd19871e0b3cc49bc7f366d7a0ddfb43",
+ "note": ""
+}
